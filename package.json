@@ -10,7 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@clerk/clerk-react": "^5.42.1",
+    "@clerk/clerk-react": "^5.42.2",
+    "@clerk/react-router": "^1.9.2",
     "@tailwindcss/vite": "^4.0.8",
     "autoprefixer": "^10.4.21",
     "axios": "^1.11.0",
@@ -23,7 +24,7 @@
     "react-dom": "^18.3.1",
     "react-icons": "^5.5.0",
     "react-joyride": "^2.9.3",
-    "react-router": "^7.2.0",
+    "react-router": "^7.8.1",
     "react-router-dom": "^7.8.0",
     "react-router-hash-link": "^2.4.3",
     "react-use": "^17.5.0",
